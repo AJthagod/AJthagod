@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, videogames, food, music, TV shows & movies and fishing.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on ...
-- 🛠  I have experience with HTML, CSS, JS, PHP, Java, Python, MySQL.
+- 🛠  I have experience with HTML, CSS, JS, PHP, Java, Python, SQL.
 - 📫 How to reach me ...
 
 <!---
