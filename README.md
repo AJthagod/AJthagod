@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AJthagod
+- 👋 Hi, I’m @aiden-janey
 - 👀 I’m interested in computers, videogames, food, music, TV shows & movies and fishing.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on ...
