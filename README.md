@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aiden-janey
-- 👀 I’m interested in web & software development.
-- 🌱 I’m currently learning Software Engineering.
-- 🛠  I have experience with HTML, CSS, JS, PHP, Java, Python, SQL, Shell.
-- 🕸  I've used the LAMP web stack, and am now learning Java Springboot. 
+- 👋 Hi, I’m @aiden-janey!
+- 👀 I’m looking to start a career in Web Application Development.
+- 🌱 I’m currently learning Software Development & Network Engineering.
+- 🛠  I have experience with these languages: HTML, CSS, JS, PHP, Java, Python, SQL.
+- 🕸  I've used the LAMP webstack, and I'm now learning Java Springboot w/ Thymeleaf. 
