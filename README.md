@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aiden-janey!
 - 👀 I’m looking for an internship in Web Application Development.
-- 🌱 I’m currently learning Software Development & Network Engineering.
-- 🛠  I have experience with these languages: HTML, CSS, JS, PHP, Java, Python, SQL & Bash.
-- 🕸  I've used the LAMP webstack, and I'm now learning Java Springboot w/ Thymeleaf. 
+- 🌱 I’m currently studying Software Development & Network Engineering.
+- 🛠  I have experience with these languages: HTML, CSS, JS, PHP, Java, Python, & SQL.
+- 🕸  I've used the webstacks LAMP (Linux, Apache, MySQL, PHP) and Java Enterprise Springboot. 
