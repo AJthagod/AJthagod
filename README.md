@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aiden-janey!
 - 👀 I’m looking for an internship in Web Development.
 - 🌱 I’m currently studying Software Development & Network Engineering.
-- 🛠  I have experience with languages like: HTML, CSS, JS, PHP, Java, Python, JavaScript/TypeScript, Kotlin, C#, Swift and SQL.
-- 🖼 I've used frameworks like: Angular (TS), Spring (Java), Bootstrap (CSS), .NET (C#), Android (Kotlin) and iOS (Swift). 
-- 🕸 I've also used webstacks like LAMP and MEAN.
+- 🛠  I have experience with languages like HTML, CSS, JS, PHP, Java, Python, JavaScript/TypeScript, Kotlin, C#, Swift and SQL.
+- 🕸 I've used frameworks like Angular (TS), Spring (Java), Bootstrap (CSS), .NET (C#), Android (Kotlin) and iOS (Swift). 
