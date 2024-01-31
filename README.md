@@ -1,4 +1,4 @@
-# Hi There! I'm Aiden, a new grad from the Sheridan College 👋
+# Hi There! I'm Aiden, a New Grad from Sheridan College 👋
 
 ## I'm a Software Developer Looking to Start My Career 👀
 
