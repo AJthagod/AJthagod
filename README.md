@@ -5,7 +5,8 @@
 - 🌱 This year, I've earned an Advanced Diploma from Sheridan College in their Software Development and Network Engineering program.
 - 🌍 Currently, I live in Brampton, but can work across most of the Greater Toronto Area.
 - 🧠 I'm learning React and it's ecosystem of libraries.
-- 🛠 Right now, I'm building a job market analytics app called [TechTrends](https://github.com/aiden-janey/TechTrends)!
+- 🛠 Right now, I'm building a job market analytics app called [TechTrends](https://github.com/aiden-janey/TechTrends).
+- 📧 Feel free to reach out via email at [arjaney.professional@gmail.com](mailto:arjaney.professional@gmail.com)!
 
 ### Skills
 
