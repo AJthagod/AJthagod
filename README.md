@@ -1,6 +1,6 @@
-# Hey there, I'm Aiden! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif).
+# Hey there, I'm Aiden! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### I'm a Junior Full-stack Developer Looking to Start My Career 👀
+### I'm a Junior Full-stack Developer Looking to Start My Career 👀.
 
 - 🌱 This year, I've earned an Advanced Diploma from Sheridan College in their Software Development and Network Engineering program.
 - 🌍 Currently, I live in Brampton, but can work across most of the Greater Toronto Area.
